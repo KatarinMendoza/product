@@ -1,0 +1,12 @@
+com\sistemabancario\product\domain\Product.class
+com\sistemabancario\product\ProductApplication.class
+com\sistemabancario\product\clients\IClients.class
+com\sistemabancario\product\util\Constantes.class
+com\sistemabancario\product\entity\Producto.class
+com\sistemabancario\product\repository\IProductRepository.class
+com\sistemabancario\product\controller\ProductController.class
+com\sistemabancario\product\service\impl\ProductService.class
+com\sistemabancario\product\clients\model\Cliente.class
+com\sistemabancario\product\service\IProductService.class
+com\sistemabancario\product\clients\ClientsImpl.class
+com\sistemabancario\product\business\IBusiness.class
